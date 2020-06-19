@@ -203,6 +203,7 @@ function kleinsterTrumpf() {
 }
 function angriffAI() {
 // greife immer mit den niedrigsten nichtTrumpfKarten an
+// am besten mit so vielen Karten wie möglich gleichzeitig
 // wenn keine nicht-trumpfkarten mehr auf der Hand: greife mit Trumpf an
 
 
